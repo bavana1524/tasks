@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(212, 231, 229, 0.953);
+}
+h1{
+    text-align: left;
+    color:rgba(11, 70, 70, 0.801);
+    font-style:initial;
+    
+}
+p{
+    color: white;
+    background-color: rgb(65, 155, 161);
+}
